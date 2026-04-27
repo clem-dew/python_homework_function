@@ -21,6 +21,3 @@ def random_card(n, VALUES = ["as", 2, 3, 4, 5, 6, 7, 8, 9, 10, "valet", "dame", 
     return random_cards_list
 
 print(random_card(6))
-
-# JE N'AI PAS TROUVE SEULE !
-# RECHERCHER DOCU SUR counts/dico !
